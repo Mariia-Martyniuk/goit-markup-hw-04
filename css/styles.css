@@ -339,9 +339,7 @@ margin-bottom: 30px;
     justify-content: space-around;
     margin: 16px 32px 30px 32px;
     padding: 0;
-}
-.link-item .social-link {
-
+    cursor: pointer;
 }
 
 .social-link {
